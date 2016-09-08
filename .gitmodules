@@ -1,3 +1,6 @@
 [submodule "abide/mindcontrol"]
 	path = abide/mindcontrol
 	url = git@github.com:akeshavan/mindcontrol
+[submodule "corr/mindcontrol"]
+	path = corr/mindcontrol
+	url = https://github.com/edatta/mindcontrol

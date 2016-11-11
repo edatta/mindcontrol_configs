@@ -1,0 +1,482 @@
+[
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc01-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -2413.7504603862762,
+            "GM Volume 1": -2216.2504227161407,
+            "GM Volume 2": -2356.2504494190216,
+            "GM Volume 3": -2262.500431537628
+        },
+        "msid": "site1-sc01",
+        "site": "site1",
+        "subject_id": 0
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc02-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -2216.250634074211,
+            "GM Volume 1": -2068.7505918741226,
+            "GM Volume 2": -2145.0006136894226,
+            "GM Volume 3": -2103.750601887703
+        },
+        "msid": "site1-sc02",
+        "site": "site1",
+        "subject_id": 1
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc03-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -1943.7494438886642,
+            "GM Volume 1": -1804.9994835853577,
+            "GM Volume 2": -1918.7494510412216,
+            "GM Volume 3": -1824.9994778633118
+        },
+        "msid": "site1-sc03",
+        "site": "site1",
+        "subject_id": 2
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc04-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -2066.249408841133,
+            "GM Volume 1": -1938.7494453191757,
+            "GM Volume 2": -2012.4994242191315,
+            "GM Volume 3": -1958.7494395971298
+        },
+        "msid": "site1-sc04",
+        "site": "site1",
+        "subject_id": 3
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc05-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -2347.499776124954,
+            "GM Volume 1": -2152.4997947216034,
+            "GM Volume 2": -2286.2497819662094,
+            "GM Volume 3": -2227.499787569046
+        },
+        "msid": "site1-sc05",
+        "site": "site1",
+        "subject_id": 4
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc06-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -2290.000436782837,
+            "GM Volume 1": -2166.2504131793976,
+            "GM Volume 2": -2288.7504365444183,
+            "GM Volume 3": -2137.5004076957703
+        },
+        "msid": "site1-sc06",
+        "site": "site1",
+        "subject_id": 5
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc07-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -2256.2495696544647,
+            "GM Volume 1": -2132.499593257904,
+            "GM Volume 2": -2166.2495868206024,
+            "GM Volume 3": -2078.749603509903
+        },
+        "msid": "site1-sc07",
+        "site": "site1",
+        "subject_id": 6
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc08-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -2492.49857378006,
+            "GM Volume 1": -2189.9987468719482,
+            "GM Volume 2": -2414.9986181259155,
+            "GM Volume 3": -2317.498673915863
+        },
+        "msid": "site1-sc08",
+        "site": "site1",
+        "subject_id": 7
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc09-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -2872.5010957717896,
+            "GM Volume 1": -2673.7510199546814,
+            "GM Volume 2": -2751.251049518585,
+            "GM Volume 3": -2712.5010347366333
+        },
+        "msid": "site1-sc09",
+        "site": "site1",
+        "subject_id": 8
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site1-sc10-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -1926.2496325969696,
+            "GM Volume 1": -1746.249666929245,
+            "GM Volume 2": -1849.999647140503,
+            "GM Volume 3": -1787.4996590614319
+        },
+        "msid": "site1-sc10",
+        "site": "site1",
+        "subject_id": 9
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc01-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -8205.163437885252,
+            "GM Volume 1": -8361.28330437907,
+            "GM Volume 2": -8047.269481999462,
+            "GM Volume 3": -8467.728667897582
+        },
+        "msid": "site2-sc01",
+        "site": "site2",
+        "subject_id": 10
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc02-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -14959.297253264125,
+            "GM Volume 1": -13981.174997123571,
+            "GM Volume 2": -14419.83669596523,
+            "GM Volume 3": -14072.640627945875
+        },
+        "msid": "site2-sc02",
+        "site": "site2",
+        "subject_id": 11
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc03-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -12213.724704231541,
+            "GM Volume 1": -11479.62778855249,
+            "GM Volume 2": -11919.711398717227,
+            "GM Volume 3": -11651.915840191452
+        },
+        "msid": "site2-sc03",
+        "site": "site2",
+        "subject_id": 12
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc04-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -12946.505027777439,
+            "GM Volume 1": -12648.905736261375,
+            "GM Volume 2": -12980.195513609446,
+            "GM Volume 3": -12854.792038568086
+        },
+        "msid": "site2-sc04",
+        "site": "site2",
+        "subject_id": 13
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc05-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -16679.508298066463,
+            "GM Volume 1": -17264.98245829501,
+            "GM Volume 2": -17417.391604767203,
+            "GM Volume 3": -16889.535536497657
+        },
+        "msid": "site2-sc05",
+        "site": "site2",
+        "subject_id": 14
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc06-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -13618.80753560736,
+            "GM Volume 1": -12350.471233643108,
+            "GM Volume 2": -13499.78477413271,
+            "GM Volume 3": -12986.499115273275
+        },
+        "msid": "site2-sc06",
+        "site": "site2",
+        "subject_id": 15
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc07-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -8609.54991117119,
+            "GM Volume 1": -7744.475518182698,
+            "GM Volume 2": -8321.191780175024,
+            "GM Volume 3": -7836.225832590567
+        },
+        "msid": "site2-sc07",
+        "site": "site2",
+        "subject_id": 16
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc08-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -13328.029614330659,
+            "GM Volume 1": -12240.436164391429,
+            "GM Volume 2": -12865.301412848976,
+            "GM Volume 3": -12683.124955572723
+        },
+        "msid": "site2-sc08",
+        "site": "site2",
+        "subject_id": 17
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc09-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -14346.588897218622,
+            "GM Volume 1": -13432.581299175547,
+            "GM Volume 2": -14046.853612030407,
+            "GM Volume 3": -13495.488704708876
+        },
+        "msid": "site2-sc09",
+        "site": "site2",
+        "subject_id": 18
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site2-sc10-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -11845.198299786332,
+            "GM Volume 1": -10471.162795158483,
+            "GM Volume 2": -11346.57150001688,
+            "GM Volume 3": -10576.13685826784
+        },
+        "msid": "site2-sc10",
+        "site": "site2",
+        "subject_id": 19
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc01-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 5187.190360508639,
+            "GM Volume 1": 6929.541378754452,
+            "GM Volume 2": 7434.774300244385,
+            "GM Volume 3": 5881.045609096535
+        },
+        "msid": "site3-sc01",
+        "site": "site3",
+        "subject_id": 20
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc02-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 6006.977429289784,
+            "GM Volume 1": 7648.108287920317,
+            "GM Volume 2": 8857.721769584563,
+            "GM Volume 3": 7174.339377745016
+        },
+        "msid": "site3-sc02",
+        "site": "site3",
+        "subject_id": 21
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc03-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 6282.302306169235,
+            "GM Volume 1": 7858.031407025544,
+            "GM Volume 2": 9382.225264741854,
+            "GM Volume 3": 7434.973911067194
+        },
+        "msid": "site3-sc03",
+        "site": "site3",
+        "subject_id": 22
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc04-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 5562.921721703731,
+            "GM Volume 1": 6601.39515192,
+            "GM Volume 2": 8250.554789621605,
+            "GM Volume 3": 6223.015205272051
+        },
+        "msid": "site3-sc04",
+        "site": "site3",
+        "subject_id": 23
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc05-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 6326.853796147858,
+            "GM Volume 1": 8040.110100732334,
+            "GM Volume 2": 9406.650300795014,
+            "GM Volume 3": 7954.597835266255
+        },
+        "msid": "site3-sc05",
+        "site": "site3",
+        "subject_id": 24
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc06-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 5239.53125,
+            "GM Volume 1": 6492.5,
+            "GM Volume 2": 7448.125,
+            "GM Volume 3": 6494.84375
+        },
+        "msid": "site3-sc06",
+        "site": "site3",
+        "subject_id": 25
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc07-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 6051.333730315993,
+            "GM Volume 1": 7289.113588372581,
+            "GM Volume 2": 8356.448631994363,
+            "GM Volume 3": 7185.512918634228
+        },
+        "msid": "site3-sc07",
+        "site": "site3",
+        "subject_id": 26
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc08-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 5518.01650193836,
+            "GM Volume 1": 6818.03397689809,
+            "GM Volume 2": 7869.062700868736,
+            "GM Volume 3": 6707.886536869462
+        },
+        "msid": "site3-sc08",
+        "site": "site3",
+        "subject_id": 27
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc09-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 5514.519909734897,
+            "GM Volume 1": 7144.805449465608,
+            "GM Volume 2": 8040.504727692738,
+            "GM Volume 3": 6686.561422176331
+        },
+        "msid": "site3-sc09",
+        "site": "site3",
+        "subject_id": 28
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site3-sc10-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": 5985.448410037471,
+            "GM Volume 1": 7467.012011637158,
+            "GM Volume 2": 8874.894656076016,
+            "GM Volume 3": 7413.27008728095
+        },
+        "msid": "site3-sc10",
+        "site": "site3",
+        "subject_id": 29
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc01-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -9398.128087796136,
+            "GM Volume 1": -8829.36286096893,
+            "GM Volume 2": -8973.241898319136,
+            "GM Volume 3": -8650.463412768087
+        },
+        "msid": "site4-sc01",
+        "site": "site4",
+        "subject_id": 30
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc02-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -10324.288889076759,
+            "GM Volume 1": -9725.282640987094,
+            "GM Volume 2": -9686.926655073996,
+            "GM Volume 3": -8834.934116919216
+        },
+        "msid": "site4-sc02",
+        "site": "site4",
+        "subject_id": 31
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc03-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -9973.886056407224,
+            "GM Volume 1": -9650.225556234089,
+            "GM Volume 2": -9483.293469763958,
+            "GM Volume 3": -9047.800716063157
+        },
+        "msid": "site4-sc03",
+        "site": "site4",
+        "subject_id": 32
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc04-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -11811.01910577865,
+            "GM Volume 1": -11077.141635681886,
+            "GM Volume 2": -11378.366092262204,
+            "GM Volume 3": -10638.774337081262
+        },
+        "msid": "site4-sc04",
+        "site": "site4",
+        "subject_id": 33
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc05-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -10577.345160952145,
+            "GM Volume 1": -10315.21485421923,
+            "GM Volume 2": -10008.64877231697,
+            "GM Volume 3": -9868.41109655317
+        },
+        "msid": "site4-sc05",
+        "site": "site4",
+        "subject_id": 34
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc06-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -12801.514212367114,
+            "GM Volume 1": -12358.030563922377,
+            "GM Volume 2": -12032.347259595772,
+            "GM Volume 3": -11215.081896423255
+        },
+        "msid": "site4-sc06",
+        "site": "site4",
+        "subject_id": 35
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc07-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -11274.70063660977,
+            "GM Volume 1": -10770.994644169603,
+            "GM Volume 2": -10905.479253801686,
+            "GM Volume 3": -9777.031120252475
+        },
+        "msid": "site4-sc07",
+        "site": "site4",
+        "subject_id": 36
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc08-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -9742.584682951123,
+            "GM Volume 1": -9225.100977955437,
+            "GM Volume 2": -9512.353738806398,
+            "GM Volume 3": -8491.105863661636
+        },
+        "msid": "site4-sc08",
+        "site": "site4",
+        "subject_id": 37
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc09-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -11039.274638644965,
+            "GM Volume 1": -11100.82587084478,
+            "GM Volume 2": -10722.143124396911,
+            "GM Volume 3": -9998.610428008356
+        },
+        "msid": "site4-sc09",
+        "site": "site4",
+        "subject_id": 38
+    },
+    {
+        "check_masks": "training-data-gm-sc-challenge-ismrm16/site4-sc10-image.nii.gz",
+        "metrics": {
+            "GM Volume 0": -10966.199712107064,
+            "GM Volume 1": -10574.855221600901,
+            "GM Volume 2": -10692.044719304386,
+            "GM Volume 3": -9339.660807850309
+        },
+        "msid": "site4-sc10",
+        "site": "site4",
+        "subject_id": 39
+    }
+]
